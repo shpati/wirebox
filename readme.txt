@@ -2,7 +2,7 @@
  --- WireBox v2.0. Written by Shpati Koleka, November 2020. --- 
 
 Usage: wireworld [-i filename] [-o filename] [-scr] [-txt] [-pgm]  
-                 [-d milliseconds] [-n cycles] [-a] [-r] [-h] [-v] 
+                 [-d milliseconds] [-n cycles] [-a] [-h] [-v] 
                                                                    
 Options:                                                           
                                                                    
